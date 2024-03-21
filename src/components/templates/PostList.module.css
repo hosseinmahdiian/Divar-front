@@ -1,0 +1,64 @@
+.post h3 {
+  width: 150px;
+  height: 50px;
+  margin-bottom: 20px;
+  border-bottom: 5px solid #a62626;
+}
+.post > div {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid #00000069;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  padding: 10px;
+  height: 100px;
+  align-items: center;
+}
+
+.post div div {
+  display: flex;
+  gap: 20px;
+}
+
+.post img {
+  width: 60px;
+  border-radius: 5px;
+}
+
+.post span {
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+}
+
+.post h4 {
+  font-size: 1.1rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.post p{
+font-size: 0.9rem;
+  font-weight: bold;
+  color: #00000084;
+  text-align: center;
+
+}
+
+
+.p2{
+  display: flex;
+  flex-direction: row !important;
+  gap: 40px;
+}
+
+.p2 button{
+  width: 60px;
+  height:60px;
+  border: none;
+  border-radius: 50%;
+  font-size: 1.8rem;
+  padding-top: 15px;
+  color:#a62626;
+  cursor: pointer;;
+}

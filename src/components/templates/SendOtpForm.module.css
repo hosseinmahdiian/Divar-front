@@ -1,0 +1,41 @@
+.conainer {
+  width: 500px;
+  height: 300px;
+  margin: 150px auto;
+  padding: 30px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+
+.text {
+  font-size: 0.9rem;
+  color: rgba(0, 0, 0, 0.614);
+}
+.lable {
+  display: block;
+  padding: 15px;
+}
+
+.input {
+  display: block;
+  width: 400px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid black ;
+  margin-bottom: 20px;
+}
+
+.btn {
+  background-color: #a62626;
+  color:#ffff;
+  width: 100px;
+  padding: 5px;
+  border: none ;
+  border-radius: 10px;
+}

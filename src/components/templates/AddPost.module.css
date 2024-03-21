@@ -1,0 +1,39 @@
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form h3 {
+  font-size: 1.2erm;
+  width: 120px;
+  text-align: center;
+  border-bottom: 3px solid #a62626;
+}
+
+.form label {
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+.form input,
+textarea,
+select {
+  border-radius: 5px;
+  height: 30px;
+  width: 300px;
+  border: 2px solid rgba(0, 0, 0, 0.335);
+  margin: 5px 0;
+  padding: 3px;
+}
+
+.form textarea {
+  height: 120px;
+}
+.form button {
+  width: 60px;
+  height: 30px;
+  background: #a62626;
+  color: #ffff;
+  border: none;
+  border-radius: 5px;
+}

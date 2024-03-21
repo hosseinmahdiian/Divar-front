@@ -1,0 +1,72 @@
+.header {
+  height: 80px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 3px solid #0e020228;
+  margin-bottom: 20px;
+}
+
+.header div {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header span {
+  color: rgba(0, 0, 0, 0.649);
+  display: flex;
+  gap: 5px;
+}
+
+.header span img {
+  width: 20px;
+  height: 20px;
+  color: rgba(0, 0, 0, 0.649);
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+}
+
+.btn {
+  background: #a62626;
+  width: 85px;
+  height: 30px;
+  color: aliceblue !important;
+  position: relative;
+  top: -5px;
+  padding: 5px 10px;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+.profile {
+position: relative;
+}
+
+.profile ul{
+  
+  position: absolute;
+  top:30px;
+  right: -30px;
+  background: #ffffffdb;
+  width: 150px;
+  text-align: center;
+  border-radius: 15px;
+  border: 2px solid rgba(0, 0, 0, 0.106);
+
+}
+
+.profile ul li{
+  margin: 10px auto;
+  list-style-type: none;
+}
+
+.profile ul li:hover{
+  font-size: 1.1rem;
+  background: #bfbdbddb;
+
+}

@@ -1,0 +1,28 @@
+.sidebar{
+    width: 200px;
+    margin-top: 50px;
+}
+
+.sidebar h3 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    width: 120px;
+    height: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+    border-bottom: 5px solid #a62626;
+}
+
+
+.sidebar li {
+    list-style-type: none;
+    width: fit-content;
+    display: flex;
+    gap: 10px;
+    color: rgba(0, 0, 0, 0.616);
+    margin: 10px 0;
+}
+
+.sidebar img{
+    width: 20px;
+}
