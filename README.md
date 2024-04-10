@@ -1,8 +1,5 @@
-# React + Vite
+used :  React | React Query | Axios | by backend ready
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot (76)](https://github.com/hosseinmahdiian/Divar-front/assets/108767623/0c784839-878c-4a06-ad9a-ad4d6a0ff11d)
+![Screenshot (78)](https://github.com/hosseinmahdiian/Divar-front/assets/108767623/06fb0e66-7727-4bb8-bf31-d9f1bd344e9e)
+![Uploading Screenshot (79).png…]()
